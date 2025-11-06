@@ -1,0 +1,6 @@
+pandas==2.3.2
+scikit-learn==1.7.2
+category-encoders==2.8.1
+imblearn==0.14.0
+lightgbm==4.6.0
+streamlit==1.51.0
